@@ -3,106 +3,6 @@
     <display-name>MeTV</display-name>
     <icon src="https://new.mjh.nz/.images/metv.png"/>
   </channel>
-  <programme channel="metv" start="20241205060500 +0000" stop="20241205063500 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>Portrait Of Jocelyn</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <desc>A man finds his disappeared wife in a painting.</desc>
-  </programme>
-  <programme channel="metv" start="20241205063500 +0000" stop="20241205070500 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>The Orderly World Of Appleby</sub-title>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <desc>Lawrence Appleby will do anything to keep his antiques shop, even murder.</desc>
-  </programme>
-  <programme channel="metv" start="20241205070500 +0000" stop="20241205080500 +0000">
-    <title>Mannix</title>
-    <sub-title>Broken Mirror</sub-title>
-    <episode-num system="onscreen">S06E07</episode-num>
-    <desc>Mannix is brought into the case of the kidnapping of a tycoon's wife.</desc>
-  </programme>
-  <programme channel="metv" start="20241205080500 +0000" stop="20241205090500 +0000">
-    <title>Cannon</title>
-    <sub-title>Dead Pigeon</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>A murderer has blamed his crime on a innocent cop and Cannon is out to prove who the real killer is.</desc>
-  </programme>
-  <programme channel="metv" start="20241205090500 +0000" stop="20241205100000 +0000">
-    <title>Barnaby Jones</title>
-    <sub-title>Dangerous Affair, A</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>A salesman murders a customer who was going to expose his corrupt business practices.</desc>
-  </programme>
-  <programme channel="metv" start="20241205100000 +0000" stop="20241205103000 +0000">
-    <title>Highway Patrol</title>
-    <sub-title>Plant Robbery</sub-title>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <desc>Highway Patrol close in on robbers who are led by an explosive and unpredictable leader.</desc>
-  </programme>
-  <programme channel="metv" start="20241205103000 +0000" stop="20241205110000 +0000">
-    <title>Dragnet</title>
-    <sub-title>The Big Gun</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>A Japanese widow is senselessly murdered, leaving her small daughter an orphan. Friday has a hard time controlling his emotions while seeking the killer.</desc>
-  </programme>
-  <programme channel="metv" start="20241205110000 +0000" stop="20241205113000 +0000">
-    <title>Adam-12</title>
-    <sub-title>Northeast Division</sub-title>
-    <episode-num system="onscreen">S06E11</episode-num>
-    <desc>Reed has full faith that an Explorer Scout volunteering at the station can repair his television set in time to watch 'King Kong,' but Malloy thinks he's crazy for letting a teenager work on expensive electronics. On today's patrol, they engage in a high-speed chase with a teenager on a modified dirt bike, investigate a report of a woman who may have buried her husband in their backyard, search for a female bank robber, deal with a group of women illegally protesting outside a supermarket and respond to a call of a robbery in progress at a coffee shop.</desc>
-  </programme>
-  <programme channel="metv" start="20241205113000 +0000" stop="20241205120000 +0000">
-    <title>Adam-12</title>
-    <sub-title>If The Shoe Fits</sub-title>
-    <episode-num system="onscreen">S06E12</episode-num>
-    <desc>While Reed is having his shoes fixed at the repair shop, the squeakiness of his replacement shoes is driving Malloy crazy. On patrol, they deal with a deranged homeowner destroying his own possessions, stop a cargo van whose driver misunderstands the meaning of double jeopardy, search for a young boy hiding in an industrial building about to be demolished and create a hostage situation after shooting a bank robber.</desc>
-  </programme>
-  <programme channel="metv" start="20241205120000 +0000" stop="20241205130000 +0000">
-    <title>Toon In With Me</title>
-    <sub-title>Bills, Bills, Bills</sub-title>
-    <desc>"Sitcom superstar Billy Gardell (Mike &amp; Molly, Bob Hearts Abishola) hangs out with Bill and Toony!"</desc>
-  </programme>
-  <programme channel="metv" start="20241205130000 +0000" stop="20241205133000 +0000">
-    <title>Leave It to Beaver</title>
-    <sub-title>Wally's Car</sub-title>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <desc>For $25, Wally buys a car and signs a contract with the owner knowing full well what he's getting, a car that doesn't start. Wally quickly finds himself with more trouble then he bargained for when the lemon becomes a fixture in front of the Cleaver home.</desc>
-  </programme>
-  <programme channel="metv" start="20241205133000 +0000" stop="20241205140000 +0000">
-    <title>Leave It to Beaver</title>
-    <sub-title>Beaver's Birthday</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>Beaver has told his parents that he doesn't want anything big for his birthday and they decide to respect his wishes and give him a gift of money. Beaver also gets quite a bit of money from other relatives and finds himself debating on whether or not to spend it or put in the bank, like his parents suggest.</desc>
-  </programme>
-  <programme channel="metv" start="20241205140000 +0000" stop="20241205150000 +0000">
-    <title>Perry Mason</title>
-    <sub-title>The Case Of The Clumsy Clown</sub-title>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <desc>Two owners of a circus are trying to buy out each other. Both also are after a clown in the circus for the funds. The second owner is blackmailing him regarding his wife's second marriage.</desc>
-  </programme>
-  <programme channel="metv" start="20241205150000 +0000" stop="20241205160000 +0000">
-    <title>Matlock</title>
-    <sub-title>The Kidnapper  (s4, ep)</sub-title>
-    <desc>When Matlock is kidnapped, Michelle and Conrad go through Matlock's old cases to try to figure out who is holding him hostage.</desc>
-  </programme>
-  <programme channel="metv" start="20241205160000 +0000" stop="20241205170000 +0000">
-    <title>In the Heat of the Night</title>
-    <sub-title>Random's Child</sub-title>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <desc>Lana Gillespie comes to Sparta to claim her inheritance, but is stalked by a mobster who dated her mother. Meanwhile Harriet encourages Bill to talk to his daughter, but Lana doesn't seem to be interested. Officer Randy Goode helps keep the bad guys at bay by playing them a little tune on the guitar.</desc>
-  </programme>
-  <programme channel="metv" start="20241205170000 +0000" stop="20241205180000 +0000">
-    <title>The Waltons</title>
-    <sub-title>The Legacy</sub-title>
-    <episode-num system="onscreen">S07E20</episode-num>
-    <desc>Ashley Longworth returns to Emily Baldwin</desc>
-  </programme>
-  <programme channel="metv" start="20241205180000 +0000" stop="20241205190000 +0000">
-    <title>Gunsmoke</title>
-    <sub-title>One For The Road</sub-title>
-    <episode-num system="onscreen">S17E19</episode-num>
-    <desc>Lucius's daughter wants her dad locked up so she and Tom can have his estate. Judge Broker thinks Mr. Prince is sane, and Mr. Prince proves he can be a dad.</desc>
-  </programme>
   <programme channel="metv" start="20241205190000 +0000" stop="20241205200000 +0000">
     <title>Bonanza</title>
     <sub-title>The Legacy</sub-title>
@@ -1260,5 +1160,212 @@
     <sub-title>License Plates</sub-title>
     <episode-num system="onscreen">S01E29</episode-num>
     <desc>Dan Matthews pursues a recidivist thief with a tip from a young boy.</desc>
+  </programme>
+  <programme channel="metv" start="20241211103000 +0000" stop="20241211110000 +0000">
+    <title>Dragnet</title>
+    <sub-title>The Bank Jobs</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>A nervy bank robber uses innocent women to help commit his crimes. Friday and Gannon are nearly sidetracked when one of the victims lies about her involvement and later proves to have a criminal record of her own.</desc>
+  </programme>
+  <programme channel="metv" start="20241211110000 +0000" stop="20241211113000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Routine Patrol</sub-title>
+    <episode-num system="onscreen">S06E18</episode-num>
+    <desc>Malloy and Reed begin today's patrol by responding to a call of a drunken woman threatening the patrons of a bar with a handgun. Afterwards, they search for a group of four carjackers who go on a robbery spree after targeting a man with a cache of guns in his trunk, and investigate the suspicious death of a mentally disabled man.</desc>
+  </programme>
+  <programme channel="metv" start="20241211113000 +0000" stop="20241211120000 +0000">
+    <title>Adam-12</title>
+    <sub-title>Sunburn</sub-title>
+    <episode-num system="onscreen">S06E19</episode-num>
+    <desc>Reed returns from vacation with a full-body sunburn, making for a miserable work day. Out on patrol, he and Malloy respond to a fiery traffic accident, use an informant's tip to track down a drug dealer, search for an armed robbery suspect based on a vehicle description and attempt to rescue two boys after their rowboat capsizes.</desc>
+  </programme>
+  <programme channel="metv" start="20241211120000 +0000" stop="20241211130000 +0000">
+    <title>Toon In With Me</title>
+    <sub-title>The Silver State</sub-title>
+    <desc>"Bill and Toony embrace the extraordinariness of Nevada, from the glitz and glam of Vegas to alien encounters."</desc>
+  </programme>
+  <programme channel="metv" start="20241211130000 +0000" stop="20241211133000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>Beaver's First Date</sub-title>
+    <episode-num system="onscreen">S05E13</episode-num>
+    <desc>A party is being thrown at the dancing school where Beaver and Wally once took lessons and they're both invited. This prompts Beaver to ask one particular girl who caught his eye, Betsy Patterson, if he could escort her to the dance. However, once at the dance, he finds that Betsy has promised other boys that she would dance with them.</desc>
+  </programme>
+  <programme channel="metv" start="20241211133000 +0000" stop="20241211140000 +0000">
+    <title>Leave It to Beaver</title>
+    <sub-title>Ward's Golf Clubs</sub-title>
+    <episode-num system="onscreen">S05E14</episode-num>
+    <desc>During a particularly awful golf game, Ward happens to break his driver and decides it's not worth repairing it, so he just puts it in the closet. Later, Gilbert talks Beaver into hitting around some golf balls with Ward's clubs and one hit with the broken driver has Beaver thinking he broke it.</desc>
+  </programme>
+  <programme channel="metv" start="20241211140000 +0000" stop="20241211150000 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Red Riding Boots</sub-title>
+    <episode-num system="onscreen">S04E11</episode-num>
+    <desc>Ann Farwell is miserable over the separation of her parents. Things aren't made any better when her father starts seeing Rita Conover, a scheming woman half his age. When Rita turns up dead both Ann and her mother think the other committed the crime.</desc>
+  </programme>
+  <programme channel="metv" start="20241211150000 +0000" stop="20241211160000 +0000">
+    <title>Matlock</title>
+    <sub-title>The Scrooge  (s4, ep)</sub-title>
+    <desc>When a scrooge of a store owner is accused of murdering his partner, Matlock defends the man and makes a strange request as part of his fee.</desc>
+  </programme>
+  <programme channel="metv" start="20241211160000 +0000" stop="20241211170000 +0000">
+    <title>In the Heat of the Night</title>
+    <sub-title>Blessings</sub-title>
+    <episode-num system="onscreen">S04E13</episode-num>
+    <desc>In this Christmas episode the officers share memories with a reporter from the Sparta Herald.</desc>
+  </programme>
+  <programme channel="metv" start="20241211170000 +0000" stop="20241211180000 +0000">
+    <title>The Waltons</title>
+    <sub-title>Founder's Day</sub-title>
+    <episode-num system="onscreen">S07E24</episode-num>
+    <desc>The town prepares for a Founder's Day Celebration</desc>
+  </programme>
+  <programme channel="metv" start="20241211180000 +0000" stop="20241211190000 +0000">
+    <title>Gunsmoke</title>
+    <sub-title>Alias Festus Haggen</sub-title>
+    <episode-num system="onscreen">S17E23</episode-num>
+    <desc>Festus is mistaken for a killer.</desc>
+  </programme>
+  <programme channel="metv" start="20241211190000 +0000" stop="20241211200000 +0000">
+    <title>Bonanza</title>
+    <sub-title>The Ponderosa Matador</sub-title>
+    <episode-num system="onscreen">S05E15</episode-num>
+    <desc>Adam, Hoss, and Joe vie for the attention of a pretty young lady named Dolores. Hoss talks Joe into entering a bull fight, but it doesn't work out quite as planned.</desc>
+  </programme>
+  <programme channel="metv" start="20241211200000 +0000" stop="20241211203000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>Shivaree</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>Aaron Pelser's wagon train comes across a pair of young boys on a buck board heading west, so he invites them to join the train. When he finds out that one of the boys is actually a girl and the two claim to be headed to Yuma to get married, Pelser and his crowd force them to be married in North Fork.</desc>
+  </programme>
+  <programme channel="metv" start="20241211203000 +0000" stop="20241211210000 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Deadeye Kid</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>McCain befriends Donnel O'Mahoney, a tough kid from Brooklyn, and arranges with two men for the young man to continue his travels on their wagon. Things go wrong, however, when one of them is murdered, and the other accuses the boy.</desc>
+  </programme>
+  <programme channel="metv" start="20241211210000 +0000" stop="20241211220000 +0000">
+    <title>Wagon Train</title>
+    <sub-title>The Jenna Douglas Story</sub-title>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <desc>"Jenna Douglas is found by scouts for the wagon train. She appears to have been a victim of a scavenger attack and is adopted by the train. As time goes on people on the train begin to have doubts about her story and her mental state."</desc>
+  </programme>
+  <programme channel="metv" start="20241211220000 +0000" stop="20241211230000 +0000">
+    <title>Emergency!</title>
+    <sub-title>Inferno</sub-title>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <desc>John and Roy are disappointed when they are the only squad not called to a major brushfire. Dixie gets her hand caught in a vending machine. A lawyer collapses in the courtroom with an apparent heart attack. Roy and John finally make it to the brushfire and become trapped while rescuing another firefighter.</desc>
+  </programme>
+  <programme channel="metv" start="20241211230000 +0000" stop="20241211233000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Henry In Love</sub-title>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <desc>Henry returns from a week in Tokyo, announcing that he is in love with a 20-year-old girl named Nancy Sue Parker. When she arrives for the weekend, it isn't long before she starts making advances on Hawkeye.</desc>
+  </programme>
+  <programme channel="metv" start="20241211233000 +0000" stop="20241212000000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>For Want Of A Boot</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>In this riotous episode, Hawkeye gets wrapped up in a convoluted scheme to procure a new pair of boots.</desc>
+  </programme>
+  <programme channel="metv" start="20241212000000 +0000" stop="20241212003000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>Operation Noselift</sub-title>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <desc>Private Baker, who is always going AWOL, is desperate for plastic surgery on his nose. Hawkeye gets an old friend, and plastic surgeon, to visit the camp, promising him a nurse called "The Barracuda." They put together an elaborate scheme to perform the operation without Frank or Margaret finding out.</desc>
+  </programme>
+  <programme channel="metv" start="20241212003000 +0000" stop="20241212010000 +0000">
+    <title>M*A*S*H</title>
+    <sub-title>The Chosen People</sub-title>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <desc>A Korean family sets up camp in the middle of the compound. A Korean woman with a baby comes looking for the father, and names Radar.</desc>
+  </programme>
+  <programme channel="metv" start="20241212010000 +0000" stop="20241212013000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>Bargain Day</sub-title>
+    <episode-num system="onscreen">S04E24</episode-num>
+    <desc>Aunt Bee, in a flurry of cost-cutting measures, saves money on beef by buying a whole side of it. Unfortunately, this happens at the same time her freezer breaks.</desc>
+  </programme>
+  <programme channel="metv" start="20241212013000 +0000" stop="20241212020000 +0000">
+    <title>The Andy Griffith Show</title>
+    <sub-title>Divorce, Mountain Style</sub-title>
+    <episode-num system="onscreen">S04E25</episode-num>
+    <desc>Andy finds himself embroiled in a strange backwoods divorce ritual, ending up as the object of Charlene Darling's affections.</desc>
+  </programme>
+  <programme channel="metv" start="20241212020000 +0000" stop="20241212023000 +0000">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>Honest John Returns</sub-title>
+    <episode-num system="onscreen">S08E25</episode-num>
+    <desc>Jethro comes home to tell Jed that he saw Honest John, but never caught up to him. Meanwhile, Honest John tells his wife he's turned straight, but she gets mad and threatens him. She wants him to con the wealthy Clampetts.</desc>
+  </programme>
+  <programme channel="metv" start="20241212023000 +0000" stop="20241212030000 +0000">
+    <title>Green Acres</title>
+    <sub-title>Our Son, The Barber</sub-title>
+    <episode-num system="onscreen">S03E24</episode-num>
+    <desc>Eb's latest career choice is that of a barber. He talks Oliver into paying his tuition to MIT, a mail-order barber college. Eb's sent a dummy head and hair to practice on and receives his grades by mailing the trimmed toupees back to the school. Lisa is excited about Eb's education while Oliver is irritated by all the hidden costs he keeps being asked to pay.</desc>
+  </programme>
+  <programme channel="metv" start="20241212030000 +0000" stop="20241212033000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>The Big Picture</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>Hogan plans to steal the picture that the Gestapo is using to blackmailing Klink.</desc>
+  </programme>
+  <programme channel="metv" start="20241212033000 +0000" stop="20241212040000 +0000">
+    <title>Hogan's Heroes</title>
+    <sub-title>The Big Gamble</sub-title>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <desc>Hogan must prevent the Germans from getting ahold of a secret device that was aboard a plane shot down near camp.</desc>
+  </programme>
+  <programme channel="metv" start="20241212040000 +0000" stop="20241212043000 +0000">
+    <title>Carol Burnett and Friends</title>
+    <sub-title>Guest Tim Conway</sub-title>
+    <desc>In George and Zelda, a disguised Carol and Harvey complain to the audience before the show. Then, in The Spy, a WWII bomber pilot jumps without a parachute. Finally, in The Ham Actor, a TV debut for an acting duo goes horribly wrong.</desc>
+  </programme>
+  <programme channel="metv" start="20241212043000 +0000" stop="20241212053500 +0000">
+    <title>Perry Mason</title>
+    <sub-title>The Case Of The Baited Hook</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Robert Dawson confronts Albert Tydings, his partner, about $80,000 missing from Carol Stanley's trust account. Tydings admits he embezzled the money and blackmails Dawson into keeping quiet.</desc>
+  </programme>
+  <programme channel="metv" start="20241212053500 +0000" stop="20241212060500 +0000">
+    <title>The Twilight Zone</title>
+    <sub-title>Mr. Dingle, The Strong</sub-title>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <desc>Martians give Luther Dingle the strength of 300 men.</desc>
+  </programme>
+  <programme channel="metv" start="20241212060500 +0000" stop="20241212063500 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>Momentum</sub-title>
+    <episode-num system="onscreen">S01E39</episode-num>
+    <desc>A man ends up running to the Mexican border after trying to collect money his employer owes him.</desc>
+  </programme>
+  <programme channel="metv" start="20241212063500 +0000" stop="20241212070500 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>Wet Saturday</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>A vulnerable man is pinned with a murder he did not commit.</desc>
+  </programme>
+  <programme channel="metv" start="20241212070500 +0000" stop="20241212080500 +0000">
+    <title>Mannix</title>
+    <sub-title>One Step To Midnight</sub-title>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <desc>Mannix tries to protect the granddaughter of an exiled mobster. It seems as though she's being stalked by hoods who want to get to her grandfather.</desc>
+  </programme>
+  <programme channel="metv" start="20241212080500 +0000" stop="20241212090500 +0000">
+    <title>Cannon</title>
+    <sub-title>The Nowhere Man</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>An accountant wants to teach the world a lesson about the production of a deadly nerve gas when he steals a can of the substance.</desc>
+  </programme>
+  <programme channel="metv" start="20241212090500 +0000" stop="20241212100000 +0000">
+    <title>Barnaby Jones</title>
+    <sub-title>Frame For Murder, A</sub-title>
+    <episode-num system="onscreen">S07E07</episode-num>
+    <desc>J.R. attempts to save his reputation when he's framed for rape.</desc>
+  </programme>
+  <programme channel="metv" start="20241212100000 +0000" stop="20241212103000 +0000">
+    <title>Highway Patrol</title>
+    <sub-title>Hitchhiker Dies</sub-title>
+    <episode-num system="onscreen">S01E30</episode-num>
+    <desc>A hitchhiker implicates a man who gave him a ride.</desc>
   </programme>
 </tv>
