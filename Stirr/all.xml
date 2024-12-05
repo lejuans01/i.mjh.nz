@@ -11,21 +11,21 @@
     <display-name>Always Funny</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711050143xj230eD6gK-512x512-square.png"/>
   </channel>
-  <channel id="5735">
-    <display-name>Just for Laughs</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612750Npdv5y4sxH-512x512-square.jpg"/>
+  <channel id="6208">
+    <display-name>Law &amp; Crime</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715322161KLh9b4MrYo-512x512-square.png"/>
   </channel>
   <channel id="6435">
     <display-name>PursuitUP</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/09/24/1727159567f9WVAzmXSn-512x512-square.png"/>
   </channel>
-  <channel id="6208">
-    <display-name>Law &amp; Crime</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715322161KLh9b4MrYo-512x512-square.png"/>
-  </channel>
   <channel id="6439">
     <display-name>Wild TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/1731450734sR0YMSWnS6-512x512-square.png"/>
+  </channel>
+  <channel id="5735">
+    <display-name>Just for Laughs</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612750Npdv5y4sxH-512x512-square.jpg"/>
   </channel>
   <channel id="5746">
     <display-name>ENCORE+</display-name>
@@ -51,14 +51,6 @@
     <display-name>VOA (Voice of America)</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712608909uUKqPRY67T-512x512-square.png"/>
   </channel>
-  <channel id="6414">
-    <display-name>NTD</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/12/17208180961n32NRsxVG-512x512-square.png"/>
-  </channel>
-  <channel id="6441">
-    <display-name>My Money</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/173145112098GcT6p6jd-512x512-square.png"/>
-  </channel>
   <channel id="5748">
     <display-name>KIDDO+</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615596PiXd3KGBGy-512x512-square.png"/>
@@ -66,6 +58,18 @@
   <channel id="6430">
     <display-name>GenB TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/23/1724446551yjP7AKnwyK-512x512-square.png"/>
+  </channel>
+  <channel id="771">
+    <display-name>FITE 24/7</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/08/25/1661452611f3ZQYyky7j-512x512-square.png"/>
+  </channel>
+  <channel id="6441">
+    <display-name>My Money</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/173145112098GcT6p6jd-512x512-square.png"/>
+  </channel>
+  <channel id="6414">
+    <display-name>NTD</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/12/17208180961n32NRsxVG-512x512-square.png"/>
   </channel>
   <channel id="6409">
     <display-name>Teton Gravity  Research</display-name>
@@ -75,13 +79,9 @@
     <display-name>TRACE Sportstar</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722921577SuDgpp1pUP-512x512-square.png"/>
   </channel>
-  <channel id="771">
-    <display-name>FITE 24/7</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/08/25/1661452611f3ZQYyky7j-512x512-square.png"/>
-  </channel>
-  <channel id="6424">
-    <display-name>SPEED SPORT 1</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/31/1722458403rVipSpep8n-512x512-square.png"/>
+  <channel id="6411">
+    <display-name>Fuel TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/03/172002506794upvjlKT5-512x512-square.png"/>
   </channel>
   <channel id="5716">
     <display-name>EuroNews</display-name>
@@ -91,6 +91,14 @@
     <display-name>SWERVE TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733806MaB2vqPJDD-512x512-square.png"/>
   </channel>
+  <channel id="6424">
+    <display-name>SPEED SPORT 1</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/31/1722458403rVipSpep8n-512x512-square.png"/>
+  </channel>
+  <channel id="1072">
+    <display-name>Channel Fight</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-512x512-square.png"/>
+  </channel>
   <channel id="5721">
     <display-name>Automotions</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png"/>
@@ -99,57 +107,53 @@
     <display-name>The Grappling Network</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442456xf6tRG4fFT-512x512-square.png"/>
   </channel>
-  <channel id="1072">
-    <display-name>Channel Fight</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-512x512-square.png"/>
-  </channel>
-  <channel id="6411">
-    <display-name>Fuel TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/03/172002506794upvjlKT5-512x512-square.png"/>
-  </channel>
   <channel id="1549">
     <display-name>Extreme+</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/10/10/1665417153z12fFv2AJQ-512x512-square.jpg"/>
-  </channel>
-  <channel id="5306">
-    <display-name>World Poker Tour</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447076xqJOPBocEx-512x512-square.png"/>
   </channel>
   <channel id="5730">
     <display-name>Nitro TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712611356BpC0G7E9wA-512x512-square.png"/>
   </channel>
-  <channel id="5887">
-    <display-name>Surfing Plus</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/17146738219e46A2lfds-512x512-square.png"/>
+  <channel id="5740">
+    <display-name>Ace TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613664IxmNkW3C0m-512x512-square.png"/>
+  </channel>
+  <channel id="5306">
+    <display-name>World Poker Tour</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447076xqJOPBocEx-512x512-square.png"/>
   </channel>
   <channel id="5304">
     <display-name>Poker Night in America</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446483Xo5uqT2uBS-512x512-square.png"/>
   </channel>
-  <channel id="5740">
-    <display-name>Ace TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613664IxmNkW3C0m-512x512-square.png"/>
+  <channel id="5887">
+    <display-name>Surfing Plus</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/17146738219e46A2lfds-512x512-square.png"/>
   </channel>
   <channel id="5294">
     <display-name>Cricket Gold</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-512x512-square.png"/>
   </channel>
-  <channel id="5295">
-    <display-name>Equus TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-512x512-square.png"/>
+  <channel id="5293">
+    <display-name>Adventure Sports TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-512x512-square.png"/>
   </channel>
   <channel id="5747">
     <display-name>Hunt Fish TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png"/>
   </channel>
+  <channel id="5295">
+    <display-name>Equus TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-512x512-square.png"/>
+  </channel>
+  <channel id="5726">
+    <display-name>Nautical Channel</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/17126107611l3ZAg8tJ1-512x512-square.png"/>
+  </channel>
   <channel id="5421">
     <display-name>QVC</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/29/1709169525FMZObgSW84-512x512-square.png"/>
-  </channel>
-  <channel id="5293">
-    <display-name>Adventure Sports TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-512x512-square.png"/>
   </channel>
   <channel id="6412">
     <display-name>Crafty Panda</display-name>
@@ -163,13 +167,13 @@
     <display-name>Sports First</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-512x512-square.jpg"/>
   </channel>
-  <channel id="5395">
-    <display-name>ONTV4U</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/21/1708553769ZlJlqhzPpo-512x512-square.png"/>
-  </channel>
   <channel id="5417">
     <display-name>Shop LC</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/28/17091442539RbHfoa9hA-512x512-square.jpg"/>
+  </channel>
+  <channel id="5395">
+    <display-name>ONTV4U</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/21/1708553769ZlJlqhzPpo-512x512-square.png"/>
   </channel>
   <channel id="5291">
     <display-name>HSN</display-name>
@@ -179,9 +183,21 @@
     <display-name>CraftsyTV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/07/10/1720630616hOs8DCitjP-512x512-square.png"/>
   </channel>
+  <channel id="6207">
+    <display-name>Always Funny: Pranks &amp; Fails</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715321470Kdkn5LQ6JH-512x512-square.png"/>
+  </channel>
+  <channel id="5428">
+    <display-name>JLTV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/01/1709331714ve9YfyJg23-512x512-square.png"/>
+  </channel>
   <channel id="5289">
     <display-name>AWE plus</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707418171gi9D5gADWQ-512x512-square.png"/>
+  </channel>
+  <channel id="5739">
+    <display-name>Docu Vision</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613230W2oYDwibh5-512x512-square.png"/>
   </channel>
   <channel id="5455">
     <display-name>Family Time</display-name>
@@ -191,26 +207,6 @@
     <display-name>Freebie TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442253rVkI5jmfsL-512x512-square.png"/>
   </channel>
-  <channel id="5726">
-    <display-name>Nautical Channel</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/17126107611l3ZAg8tJ1-512x512-square.png"/>
-  </channel>
-  <channel id="6207">
-    <display-name>Always Funny: Pranks &amp; Fails</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715321470Kdkn5LQ6JH-512x512-square.png"/>
-  </channel>
-  <channel id="5428">
-    <display-name>JLTV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/01/1709331714ve9YfyJg23-512x512-square.png"/>
-  </channel>
-  <channel id="5745">
-    <display-name>Cowboy Movie Channel</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-512x512-square.png"/>
-  </channel>
-  <channel id="5436">
-    <display-name>Popstar! TV</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/19/1710878507YBl20Hfw1j-512x512-square.png"/>
-  </channel>
   <channel id="5302">
     <display-name>Humor Mill TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707445067DapGBq9zX8-512x512-square.png"/>
@@ -219,53 +215,57 @@
     <display-name>TBN</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711049863a020ieNKak-512x512-square.png"/>
   </channel>
+  <channel id="5436">
+    <display-name>Popstar! TV</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/19/1710878507YBl20Hfw1j-512x512-square.png"/>
+  </channel>
+  <channel id="5745">
+    <display-name>Cowboy Movie Channel</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-512x512-square.png"/>
+  </channel>
   <channel id="5308">
     <display-name>Zoomer TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447606lfFjnn5nEx-512x512-square.png"/>
-  </channel>
-  <channel id="5739">
-    <display-name>Docu Vision</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613230W2oYDwibh5-512x512-square.png"/>
   </channel>
   <channel id="5298">
     <display-name>Feva TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442110xv8oh5GFbt-512x512-square.png"/>
   </channel>
-  <channel id="5752">
-    <display-name>MERCURY+</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615887YxCSHkZjQv-512x512-square.png"/>
+  <channel id="5453">
+    <display-name>Gotraveler</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712000649TrNcfgiqdz-512x512-square.jpg"/>
   </channel>
   <channel id="5734">
     <display-name>4K Travel TV</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-512x512-square.png"/>
   </channel>
-  <channel id="3353">
-    <display-name>Omstars</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2023/02/28/1677525969XOownbFiza-512x512-square.png"/>
-  </channel>
   <channel id="5273">
     <display-name>CrimeFlix</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733107gC1NOuIrru-512x512-square.jpg"/>
+  </channel>
+  <channel id="5752">
+    <display-name>MERCURY+</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615887YxCSHkZjQv-512x512-square.png"/>
   </channel>
   <channel id="6427">
     <display-name>TRACE UK</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922951PXrjljQmJ0-512x512-square.png"/>
   </channel>
-  <channel id="5453">
-    <display-name>Gotraveler</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712000649TrNcfgiqdz-512x512-square.jpg"/>
-  </channel>
   <channel id="6428">
     <display-name>TRACE Latina</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722923469cnrsK9Xfs6-512x512-square.png"/>
+  </channel>
+  <channel id="6426">
+    <display-name>TRACE Urban</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-512x512-square.png"/>
   </channel>
   <channel id="6429">
     <display-name>TRACE Brazuca </display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722924089sUe49s1xXB-512x512-square.png"/>
   </channel>
-  <channel id="6426">
-    <display-name>TRACE Urban</display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-512x512-square.png"/>
+  <channel id="3353">
+    <display-name>Omstars</display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2023/02/28/1677525969XOownbFiza-512x512-square.png"/>
   </channel>
   <channel id="5408">
     <display-name>RVTV</display-name>
@@ -275,10 +275,6 @@
     <display-name>Feva Music</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441388y5JAA4UyzK-512x512-square.png"/>
   </channel>
-  <channel id="6443">
-    <display-name>Our Vinyl </display-name>
-    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/1731451322HlMZsF2k8u-512x512-square.png"/>
-  </channel>
   <channel id="5454">
     <display-name>Hipstr</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712001822nznanJgm1T-512x512-square.jpg"/>
@@ -287,4 +283,308 @@
     <display-name>The Big Dish Channel</display-name>
     <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707435560ZF3REwypLC-512x512-square.jpg"/>
   </channel>
+  <channel id="6443">
+    <display-name>Our Vinyl </display-name>
+    <icon src="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/11/12/1731451322HlMZsF2k8u-512x512-square.png"/>
+  </channel>
+  <programme channel="5726" start="20241204183000 +0000" stop="20241204190000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
+  <programme channel="5726" start="20241204190000 +0000" stop="20241204193000 +0000">
+    <title>Inside Sailing - Episode 8</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241204193000 +0000" stop="20241204200000 +0000">
+    <title>Who is J.O.B - Episode 2</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205000000 +0000" stop="20241205000000 +0000">
+    <title>Kayaking Kerala - Episode 1 - Part One</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205003000 +0000" stop="20241205003000 +0000">
+    <title>Kayaking Kerala - Episode 2 - Part Two</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205020000 +0000" stop="20241205023000 +0000">
+    <title>Inside Sailing - Episode 3</title>
+    <desc>In this episode we will take you to Oman to follow the prestigious EFG Sailing Arabia - The Tour which is now in its tenth year. The region’s annual premier offshore race is a firm winter favorite for many world class sailors. After that, staying in the Arabian Peninsula we will move to Bahrain to witness all of the action in the 2019 Kingdom Match Race. This also was the final round of the Super League Match race.Finally, we will take you to Europe for the final of the 2019 Kitefoil World Series. The magnificent Cagliari in Sardinia is an established sporting destination. Watersports are the specialty ofthe town, and the big final was just thrilling.</desc>
+  </programme>
+  <programme channel="5726" start="20241205023000 +0000" stop="20241205030000 +0000">
+    <title>Inside Sailing - Episode 4</title>
+    <desc>In this episode we will start our sailing journey from Miami, the cultural and financial center of South Florida in the United States. This area is well known for its beaches and laid-back vibe, and also for hosting the 93rd Bacardi Cup. Then, from the United States we will travel to Australia to follow the 2020 RS:X Windsurfing World Championships. The event attracted a fleet of 116 sailors who gathered to challenge for the World Championship titles. Let's find out more!</desc>
+  </programme>
+  <programme channel="5726" start="20241205030000 +0000" stop="20241205032600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205033000 +0000" stop="20241205040000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241205060000 +0000" stop="20241205063000 +0000">
+    <title>52 Super Series - Episode 3</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205063000 +0000" stop="20241205070000 +0000">
+    <title>Beneath the Surface</title>
+    <desc>Big wave surfer Andrew Cotton, a plumber and father of two from Devon, hit the headlines in 2014 when it was rumoured that he had surfed the world’s biggest wave, estimated at 80ft. In this one-off 30-minute documentary, Andrew and his team of surfers, sailors and adventurers put everything on hold as they secretly chase a wave that emerges only a handful of times each year, giving only hours of warning.Taking a boat eight miles off the coast of Ireland, the team battle the extreme cold and fierce weather conditions, whilst mapping the ocean’s swell, in order to try to catch one almighty ride. Far from home and with the days getting shorter, frustration sets in, as the window of opportunity gets smaller. With a young family at home, Andrew must balance the normality of the school run, before boarding a plane alone to face one of earth’s deadliest monsters.</desc>
+  </programme>
+  <programme channel="5726" start="20241205070000 +0000" stop="20241205073000 +0000">
+    <title>Inside Sailing - Episode 8</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205073000 +0000" stop="20241205080000 +0000">
+    <title>Who is J.O.B - Episode 2</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205090000 +0000" stop="20241205093000 +0000">
+    <title>Journey To Giglio</title>
+    <desc>On January of 2012 the Italian cruise ship Costa Concordia sank in shallow waters after striking an underwater rock off Isola del Giglio. Many things remained unclear about this tragedy, so Andi van Zyl is set to discover the truth regarding this incident.Journey to Giglio is an investigative piece on the infamous Costa Concordia tragedy. Andi van Zyl is on the Italian island of Giglio for an exclusive exposé on the shipwreck that shocked the world. She will leave no rock unturned as she digs into what happened the night of the accident and uncovers the disaster’s impact on the local residents and economy.Highlights include exploration of the island and disaster site, and an interview with the man at the helm of the salvage operation, Nick Sloane. Andi sits down with the fellow South African to discuss the delicate process of freeing the wrecked cruise-liner from the reef without spoiling the pristine waters of Giglio Island.Find out the mystery behind the sinking of Costa Concordia on this Journey to Giglio.</desc>
+  </programme>
+  <programme channel="5726" start="20241205093000 +0000" stop="20241205100000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
+  <programme channel="5726" start="20241205110000 +0000" stop="20241205113000 +0000">
+    <title>Inside Sailing - Episode 3</title>
+    <desc>In this episode we will take you to Oman to follow the prestigious EFG Sailing Arabia - The Tour which is now in its tenth year. The region’s annual premier offshore race is a firm winter favorite for many world class sailors. After that, staying in the Arabian Peninsula we will move to Bahrain to witness all of the action in the 2019 Kingdom Match Race. This also was the final round of the Super League Match race.Finally, we will take you to Europe for the final of the 2019 Kitefoil World Series. The magnificent Cagliari in Sardinia is an established sporting destination. Watersports are the specialty ofthe town, and the big final was just thrilling.</desc>
+  </programme>
+  <programme channel="5726" start="20241205113000 +0000" stop="20241205120000 +0000">
+    <title>Inside Sailing - Episode 4</title>
+    <desc>In this episode we will start our sailing journey from Miami, the cultural and financial center of South Florida in the United States. This area is well known for its beaches and laid-back vibe, and also for hosting the 93rd Bacardi Cup. Then, from the United States we will travel to Australia to follow the 2020 RS:X Windsurfing World Championships. The event attracted a fleet of 116 sailors who gathered to challenge for the World Championship titles. Let's find out more!</desc>
+  </programme>
+  <programme channel="5726" start="20241205120000 +0000" stop="20241205120000 +0000">
+    <title>Kayaking Kerala - Episode 1 - Part One</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205123000 +0000" stop="20241205123000 +0000">
+    <title>Kayaking Kerala - Episode 2 - Part Two</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205140000 +0000" stop="20241205143000 +0000">
+    <title>52 Super Series - Episode 3</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205143000 +0000" stop="20241205150000 +0000">
+    <title>Beneath the Surface</title>
+    <desc>Big wave surfer Andrew Cotton, a plumber and father of two from Devon, hit the headlines in 2014 when it was rumoured that he had surfed the world’s biggest wave, estimated at 80ft. In this one-off 30-minute documentary, Andrew and his team of surfers, sailors and adventurers put everything on hold as they secretly chase a wave that emerges only a handful of times each year, giving only hours of warning.Taking a boat eight miles off the coast of Ireland, the team battle the extreme cold and fierce weather conditions, whilst mapping the ocean’s swell, in order to try to catch one almighty ride. Far from home and with the days getting shorter, frustration sets in, as the window of opportunity gets smaller. With a young family at home, Andrew must balance the normality of the school run, before boarding a plane alone to face one of earth’s deadliest monsters.</desc>
+  </programme>
+  <programme channel="5726" start="20241205150000 +0000" stop="20241205152600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205153000 +0000" stop="20241205160000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241205160000 +0000" stop="20241205163000 +0000">
+    <title>Inside Sailing - Episode 8</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205163000 +0000" stop="20241205170000 +0000">
+    <title>Who is J.O.B - Episode 2</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205180000 +0000" stop="20241205183000 +0000">
+    <title>Inside Sailing - Episode 3</title>
+    <desc>In this episode we will take you to Oman to follow the prestigious EFG Sailing Arabia - The Tour which is now in its tenth year. The region’s annual premier offshore race is a firm winter favorite for many world class sailors. After that, staying in the Arabian Peninsula we will move to Bahrain to witness all of the action in the 2019 Kingdom Match Race. This also was the final round of the Super League Match race.Finally, we will take you to Europe for the final of the 2019 Kitefoil World Series. The magnificent Cagliari in Sardinia is an established sporting destination. Watersports are the specialty ofthe town, and the big final was just thrilling.</desc>
+  </programme>
+  <programme channel="5726" start="20241205183000 +0000" stop="20241205190000 +0000">
+    <title>Inside Sailing - Episode 4</title>
+    <desc>In this episode we will start our sailing journey from Miami, the cultural and financial center of South Florida in the United States. This area is well known for its beaches and laid-back vibe, and also for hosting the 93rd Bacardi Cup. Then, from the United States we will travel to Australia to follow the 2020 RS:X Windsurfing World Championships. The event attracted a fleet of 116 sailors who gathered to challenge for the World Championship titles. Let's find out more!</desc>
+  </programme>
+  <programme channel="5726" start="20241205190000 +0000" stop="20241205193000 +0000">
+    <title>Journey To Giglio</title>
+    <desc>On January of 2012 the Italian cruise ship Costa Concordia sank in shallow waters after striking an underwater rock off Isola del Giglio. Many things remained unclear about this tragedy, so Andi van Zyl is set to discover the truth regarding this incident.Journey to Giglio is an investigative piece on the infamous Costa Concordia tragedy. Andi van Zyl is on the Italian island of Giglio for an exclusive exposé on the shipwreck that shocked the world. She will leave no rock unturned as she digs into what happened the night of the accident and uncovers the disaster’s impact on the local residents and economy.Highlights include exploration of the island and disaster site, and an interview with the man at the helm of the salvage operation, Nick Sloane. Andi sits down with the fellow South African to discuss the delicate process of freeing the wrecked cruise-liner from the reef without spoiling the pristine waters of Giglio Island.Find out the mystery behind the sinking of Costa Concordia on this Journey to Giglio.</desc>
+  </programme>
+  <programme channel="5726" start="20241205193000 +0000" stop="20241205200000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
+  <programme channel="5726" start="20241205230000 +0000" stop="20241205232600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241205233000 +0000" stop="20241206000000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241206000000 +0000" stop="20241206003000 +0000">
+    <title>52 Super Series - Episode 3</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241206003000 +0000" stop="20241206010000 +0000">
+    <title>Beneath the Surface</title>
+    <desc>Big wave surfer Andrew Cotton, a plumber and father of two from Devon, hit the headlines in 2014 when it was rumoured that he had surfed the world’s biggest wave, estimated at 80ft. In this one-off 30-minute documentary, Andrew and his team of surfers, sailors and adventurers put everything on hold as they secretly chase a wave that emerges only a handful of times each year, giving only hours of warning.Taking a boat eight miles off the coast of Ireland, the team battle the extreme cold and fierce weather conditions, whilst mapping the ocean’s swell, in order to try to catch one almighty ride. Far from home and with the days getting shorter, frustration sets in, as the window of opportunity gets smaller. With a young family at home, Andrew must balance the normality of the school run, before boarding a plane alone to face one of earth’s deadliest monsters.</desc>
+  </programme>
+  <programme channel="5726" start="20241206030000 +0000" stop="20241206033000 +0000">
+    <title>Journey To Giglio</title>
+    <desc>On January of 2012 the Italian cruise ship Costa Concordia sank in shallow waters after striking an underwater rock off Isola del Giglio. Many things remained unclear about this tragedy, so Andi van Zyl is set to discover the truth regarding this incident.Journey to Giglio is an investigative piece on the infamous Costa Concordia tragedy. Andi van Zyl is on the Italian island of Giglio for an exclusive exposé on the shipwreck that shocked the world. She will leave no rock unturned as she digs into what happened the night of the accident and uncovers the disaster’s impact on the local residents and economy.Highlights include exploration of the island and disaster site, and an interview with the man at the helm of the salvage operation, Nick Sloane. Andi sits down with the fellow South African to discuss the delicate process of freeing the wrecked cruise-liner from the reef without spoiling the pristine waters of Giglio Island.Find out the mystery behind the sinking of Costa Concordia on this Journey to Giglio.</desc>
+  </programme>
+  <programme channel="5726" start="20241206033000 +0000" stop="20241206040000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
+  <programme channel="5726" start="20241206040000 +0000" stop="20241206043000 +0000">
+    <title>Inside Sailing - Episode 8</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241206043000 +0000" stop="20241206050000 +0000">
+    <title>Who is J.O.B - Episode 2</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241206070000 +0000" stop="20241206073000 +0000">
+    <title>Inside Sailing - Episode 3</title>
+    <desc>In this episode we will take you to Oman to follow the prestigious EFG Sailing Arabia - The Tour which is now in its tenth year. The region’s annual premier offshore race is a firm winter favorite for many world class sailors. After that, staying in the Arabian Peninsula we will move to Bahrain to witness all of the action in the 2019 Kingdom Match Race. This also was the final round of the Super League Match race.Finally, we will take you to Europe for the final of the 2019 Kitefoil World Series. The magnificent Cagliari in Sardinia is an established sporting destination. Watersports are the specialty ofthe town, and the big final was just thrilling.</desc>
+  </programme>
+  <programme channel="5726" start="20241206073000 +0000" stop="20241206080000 +0000">
+    <title>Inside Sailing - Episode 4</title>
+    <desc>In this episode we will start our sailing journey from Miami, the cultural and financial center of South Florida in the United States. This area is well known for its beaches and laid-back vibe, and also for hosting the 93rd Bacardi Cup. Then, from the United States we will travel to Australia to follow the 2020 RS:X Windsurfing World Championships. The event attracted a fleet of 116 sailors who gathered to challenge for the World Championship titles. Let's find out more!</desc>
+  </programme>
+  <programme channel="5726" start="20241206100000 +0000" stop="20241206103000 +0000">
+    <title>52 Super Series - Episode 3</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241206103000 +0000" stop="20241206110000 +0000">
+    <title>Beneath the Surface</title>
+    <desc>Big wave surfer Andrew Cotton, a plumber and father of two from Devon, hit the headlines in 2014 when it was rumoured that he had surfed the world’s biggest wave, estimated at 80ft. In this one-off 30-minute documentary, Andrew and his team of surfers, sailors and adventurers put everything on hold as they secretly chase a wave that emerges only a handful of times each year, giving only hours of warning.Taking a boat eight miles off the coast of Ireland, the team battle the extreme cold and fierce weather conditions, whilst mapping the ocean’s swell, in order to try to catch one almighty ride. Far from home and with the days getting shorter, frustration sets in, as the window of opportunity gets smaller. With a young family at home, Andrew must balance the normality of the school run, before boarding a plane alone to face one of earth’s deadliest monsters.</desc>
+  </programme>
+  <programme channel="5726" start="20241206110000 +0000" stop="20241206113000 +0000">
+    <title>Inside Sailing - Episode 8</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241206113000 +0000" stop="20241206120000 +0000">
+    <title>Who is J.O.B - Episode 2</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241206120000 +0000" stop="20241206122600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241206123000 +0000" stop="20241206130000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241206140000 +0000" stop="20241206143000 +0000">
+    <title>Journey To Giglio</title>
+    <desc>On January of 2012 the Italian cruise ship Costa Concordia sank in shallow waters after striking an underwater rock off Isola del Giglio. Many things remained unclear about this tragedy, so Andi van Zyl is set to discover the truth regarding this incident.Journey to Giglio is an investigative piece on the infamous Costa Concordia tragedy. Andi van Zyl is on the Italian island of Giglio for an exclusive exposé on the shipwreck that shocked the world. She will leave no rock unturned as she digs into what happened the night of the accident and uncovers the disaster’s impact on the local residents and economy.Highlights include exploration of the island and disaster site, and an interview with the man at the helm of the salvage operation, Nick Sloane. Andi sits down with the fellow South African to discuss the delicate process of freeing the wrecked cruise-liner from the reef without spoiling the pristine waters of Giglio Island.Find out the mystery behind the sinking of Costa Concordia on this Journey to Giglio.</desc>
+  </programme>
+  <programme channel="5726" start="20241206143000 +0000" stop="20241206150000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
+  <programme channel="5726" start="20241206170000 +0000" stop="20241206173000 +0000">
+    <title>Inside Sailing - Episode 3</title>
+    <desc>In this episode we will take you to Oman to follow the prestigious EFG Sailing Arabia - The Tour which is now in its tenth year. The region’s annual premier offshore race is a firm winter favorite for many world class sailors. After that, staying in the Arabian Peninsula we will move to Bahrain to witness all of the action in the 2019 Kingdom Match Race. This also was the final round of the Super League Match race.Finally, we will take you to Europe for the final of the 2019 Kitefoil World Series. The magnificent Cagliari in Sardinia is an established sporting destination. Watersports are the specialty ofthe town, and the big final was just thrilling.</desc>
+  </programme>
+  <programme channel="5726" start="20241206173000 +0000" stop="20241206180000 +0000">
+    <title>Inside Sailing - Episode 4</title>
+    <desc>In this episode we will start our sailing journey from Miami, the cultural and financial center of South Florida in the United States. This area is well known for its beaches and laid-back vibe, and also for hosting the 93rd Bacardi Cup. Then, from the United States we will travel to Australia to follow the 2020 RS:X Windsurfing World Championships. The event attracted a fleet of 116 sailors who gathered to challenge for the World Championship titles. Let's find out more!</desc>
+  </programme>
+  <programme channel="5726" start="20241206180000 +0000" stop="20241206182600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241206183000 +0000" stop="20241206190000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241207000000 +0000" stop="20241207003000 +0000">
+    <title>Inside Sailing - Episode 8</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241207003000 +0000" stop="20241207010000 +0000">
+    <title>Who is J.O.B - Episode 2</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241207010000 +0000" stop="20241207013000 +0000">
+    <title>Inside Sailing - Episode 3</title>
+    <desc>In this episode we will take you to Oman to follow the prestigious EFG Sailing Arabia - The Tour which is now in its tenth year. The region’s annual premier offshore race is a firm winter favorite for many world class sailors. After that, staying in the Arabian Peninsula we will move to Bahrain to witness all of the action in the 2019 Kingdom Match Race. This also was the final round of the Super League Match race.Finally, we will take you to Europe for the final of the 2019 Kitefoil World Series. The magnificent Cagliari in Sardinia is an established sporting destination. Watersports are the specialty ofthe town, and the big final was just thrilling.</desc>
+  </programme>
+  <programme channel="5726" start="20241207013000 +0000" stop="20241207020000 +0000">
+    <title>Inside Sailing - Episode 4</title>
+    <desc>In this episode we will start our sailing journey from Miami, the cultural and financial center of South Florida in the United States. This area is well known for its beaches and laid-back vibe, and also for hosting the 93rd Bacardi Cup. Then, from the United States we will travel to Australia to follow the 2020 RS:X Windsurfing World Championships. The event attracted a fleet of 116 sailors who gathered to challenge for the World Championship titles. Let's find out more!</desc>
+  </programme>
+  <programme channel="5726" start="20241207040000 +0000" stop="20241207042600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241207043000 +0000" stop="20241207050000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241207060000 +0000" stop="20241207063000 +0000">
+    <title>Journey To Giglio</title>
+    <desc>On January of 2012 the Italian cruise ship Costa Concordia sank in shallow waters after striking an underwater rock off Isola del Giglio. Many things remained unclear about this tragedy, so Andi van Zyl is set to discover the truth regarding this incident.Journey to Giglio is an investigative piece on the infamous Costa Concordia tragedy. Andi van Zyl is on the Italian island of Giglio for an exclusive exposé on the shipwreck that shocked the world. She will leave no rock unturned as she digs into what happened the night of the accident and uncovers the disaster’s impact on the local residents and economy.Highlights include exploration of the island and disaster site, and an interview with the man at the helm of the salvage operation, Nick Sloane. Andi sits down with the fellow South African to discuss the delicate process of freeing the wrecked cruise-liner from the reef without spoiling the pristine waters of Giglio Island.Find out the mystery behind the sinking of Costa Concordia on this Journey to Giglio.</desc>
+  </programme>
+  <programme channel="5726" start="20241207063000 +0000" stop="20241207070000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
+  <programme channel="5726" start="20241207080000 +0000" stop="20241207083000 +0000">
+    <title>Inside Sailing - Episode 3</title>
+    <desc>In this episode we will take you to Oman to follow the prestigious EFG Sailing Arabia - The Tour which is now in its tenth year. The region’s annual premier offshore race is a firm winter favorite for many world class sailors. After that, staying in the Arabian Peninsula we will move to Bahrain to witness all of the action in the 2019 Kingdom Match Race. This also was the final round of the Super League Match race.Finally, we will take you to Europe for the final of the 2019 Kitefoil World Series. The magnificent Cagliari in Sardinia is an established sporting destination. Watersports are the specialty ofthe town, and the big final was just thrilling.</desc>
+  </programme>
+  <programme channel="5726" start="20241207083000 +0000" stop="20241207090000 +0000">
+    <title>Inside Sailing - Episode 4</title>
+    <desc>In this episode we will start our sailing journey from Miami, the cultural and financial center of South Florida in the United States. This area is well known for its beaches and laid-back vibe, and also for hosting the 93rd Bacardi Cup. Then, from the United States we will travel to Australia to follow the 2020 RS:X Windsurfing World Championships. The event attracted a fleet of 116 sailors who gathered to challenge for the World Championship titles. Let's find out more!</desc>
+  </programme>
+  <programme channel="5726" start="20241207110000 +0000" stop="20241207112600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241207113000 +0000" stop="20241207120000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241207120000 +0000" stop="20241207123000 +0000">
+    <title>Inside Sailing - Episode 8</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241207123000 +0000" stop="20241207130000 +0000">
+    <title>Who is J.O.B - Episode 2</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241207150000 +0000" stop="20241207153000 +0000">
+    <title>Journey To Giglio</title>
+    <desc>On January of 2012 the Italian cruise ship Costa Concordia sank in shallow waters after striking an underwater rock off Isola del Giglio. Many things remained unclear about this tragedy, so Andi van Zyl is set to discover the truth regarding this incident.Journey to Giglio is an investigative piece on the infamous Costa Concordia tragedy. Andi van Zyl is on the Italian island of Giglio for an exclusive exposé on the shipwreck that shocked the world. She will leave no rock unturned as she digs into what happened the night of the accident and uncovers the disaster’s impact on the local residents and economy.Highlights include exploration of the island and disaster site, and an interview with the man at the helm of the salvage operation, Nick Sloane. Andi sits down with the fellow South African to discuss the delicate process of freeing the wrecked cruise-liner from the reef without spoiling the pristine waters of Giglio Island.Find out the mystery behind the sinking of Costa Concordia on this Journey to Giglio.</desc>
+  </programme>
+  <programme channel="5726" start="20241207153000 +0000" stop="20241207160000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
+  <programme channel="5726" start="20241208000000 +0000" stop="20241208002600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241208003000 +0000" stop="20241208010000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241208050000 +0000" stop="20241208053000 +0000">
+    <title>Journey To Giglio</title>
+    <desc>On January of 2012 the Italian cruise ship Costa Concordia sank in shallow waters after striking an underwater rock off Isola del Giglio. Many things remained unclear about this tragedy, so Andi van Zyl is set to discover the truth regarding this incident.Journey to Giglio is an investigative piece on the infamous Costa Concordia tragedy. Andi van Zyl is on the Italian island of Giglio for an exclusive exposé on the shipwreck that shocked the world. She will leave no rock unturned as she digs into what happened the night of the accident and uncovers the disaster’s impact on the local residents and economy.Highlights include exploration of the island and disaster site, and an interview with the man at the helm of the salvage operation, Nick Sloane. Andi sits down with the fellow South African to discuss the delicate process of freeing the wrecked cruise-liner from the reef without spoiling the pristine waters of Giglio Island.Find out the mystery behind the sinking of Costa Concordia on this Journey to Giglio.</desc>
+  </programme>
+  <programme channel="5726" start="20241208053000 +0000" stop="20241208060000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
+  <programme channel="5726" start="20241208090000 +0000" stop="20241208092600 +0000">
+    <title>Wind Masters - Episode 7</title>
+    <desc> - Array</desc>
+  </programme>
+  <programme channel="5726" start="20241208093000 +0000" stop="20241208100000 +0000">
+    <title>EcoFin Documentary</title>
+    <desc>“We’re just two surfers that decided we could no longer ignore plastic pollution in our oceans.” –Luise Grossmann.Two young innovators created the first sustainable surfboard fin based on ocean-recycled plastics. The founders of FiveOceans give ocean rubbish a new life, using plastic collected from the Indian Ocean, proving it is possible to close the cycle with ocean waste and high quality surf gear.In this stunning documentary, they prove their mission and reveal a transparent value chain of the waste material to design a performance product for surfers. With their background in engineering, the unrivalled story is underlined by surfing, adventure and great personalities as the two friends battle their way to achieve a much higher goal: reducing the plastic that ends up in the oceans they surf.</desc>
+  </programme>
+  <programme channel="5726" start="20241208110000 +0000" stop="20241208113000 +0000">
+    <title>Journey To Giglio</title>
+    <desc>On January of 2012 the Italian cruise ship Costa Concordia sank in shallow waters after striking an underwater rock off Isola del Giglio. Many things remained unclear about this tragedy, so Andi van Zyl is set to discover the truth regarding this incident.Journey to Giglio is an investigative piece on the infamous Costa Concordia tragedy. Andi van Zyl is on the Italian island of Giglio for an exclusive exposé on the shipwreck that shocked the world. She will leave no rock unturned as she digs into what happened the night of the accident and uncovers the disaster’s impact on the local residents and economy.Highlights include exploration of the island and disaster site, and an interview with the man at the helm of the salvage operation, Nick Sloane. Andi sits down with the fellow South African to discuss the delicate process of freeing the wrecked cruise-liner from the reef without spoiling the pristine waters of Giglio Island.Find out the mystery behind the sinking of Costa Concordia on this Journey to Giglio.</desc>
+  </programme>
+  <programme channel="5726" start="20241208113000 +0000" stop="20241208120000 +0000">
+    <title>The Kayak Man</title>
+    <desc>Another expedition? You must be crazy.This is what Beppe's friend told him when he decided to leave for North America. Even after paddling in the biggest rivers in the world, his desire for adventure was still not satisfied, and he went out looking for more. Dreaming of freedom, sleeping bags and nature, he ventured into the unknown to discover the Yukon and Teslin Rivers.For those unaware, the Yukon river is the major watercourse of the northwest of North America. It flows through the Canadian Yukon Territory and makes it's way to Alaska. The Teslin River is a bit shorter, but not for this reason less fun to dive into. They both offer an impressive scenery amidst cold temperatures, dangerous whitewaters and the wild nature of North America.The Kayak Man takes us on a journey of self discovery through the most beautiful landscapes of Canada and the United States while following the path of a brave kayaker that leaves his life behind in an attempt to explore new horizons by himself. An impressive trip that will not leave him the same way he was before.</desc>
+  </programme>
 </tv>
