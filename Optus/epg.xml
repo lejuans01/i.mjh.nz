@@ -3,191 +3,6 @@
     <display-name>Premier League Channel</display-name>
     <icon src="https://static.sport.optus.com.au/resources/static/568b3ee0-4923-40c2-aebe-c226b8da3db9_premierleaguerebrandsdesignstudio01.jpg"/>
   </channel>
-  <programme channel="os11" start="20241204230000 +0000" stop="20241205000000 +0000">
-    <title>THE CATCH-UP SHOW EP16</title>
-    <sub-title>All the very best of the week's programming and digital content from another action-packed Premier League match round.</sub-title>
-    <desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
-  </programme>
-  <programme channel="os11" start="20241205000000 +0000" stop="20241205003000 +0000">
-    <title>PL STORIES EP27: (Subbed) CHICHARITO</title>
-    <sub-title>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</sub-title>
-    <desc>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</desc>
-  </programme>
-  <programme channel="os11" start="20241205003000 +0000" stop="20241205013000 +0000">
-    <title>1-TO-11 EP08: ANTTI NIEMI</title>
-    <sub-title>Former Southampton, Fulham and Finland goalkeeper Antti Niemi chooses his dream team from the teammates he shared a Premier League pitch with.</sub-title>
-    <desc>Former Southampton, Fulham and Finland goalkeeper Antti Niemi chooses his dream team from the teammates he shared a Premier League pitch with.</desc>
-  </programme>
-  <programme channel="os11" start="20241205013000 +0000" stop="20241205020000 +0000">
-    <title>PL STORIES EP06: THE ENTERTAINERS</title>
-    <sub-title>Nicknamed ‘The Entertainers’, Kevin Keegan’s Newcastle team of the 1995-96 season set the Premier League alight with their confidence and flair that took them agonisingly close to winning their first Premier League title. In this show, we speak to those that were part of that incredible journey and reflect on some of those unforgettable moments that captured hearts and forever changing the club's legacy.</sub-title>
-    <desc>Nicknamed ‘The Entertainers’, Kevin Keegan’s Newcastle team of the 1995-96 season set the Premier League alight with their confidence and flair that took them agonisingly close to winning their first Premier League title. In this show, we speak to those that were part of that incredible journey and reflect on some of those unforgettable moments that captured hearts and forever changing the club's legacy.</desc>
-  </programme>
-  <programme channel="os11" start="20241205020000 +0000" stop="20241205023000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Newcastle United v Liverpool</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205023000 +0000" stop="20241205030000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Manchester City v Nottingham Forest</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205030000 +0000" stop="20241205033000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Southampton v Chelsea</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205033000 +0000" stop="20241205040000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Everton v Wolverhampton Wanderers</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205040000 +0000" stop="20241205043000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Arsenal v Manchester United</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205043000 +0000" stop="20241205050000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Aston Villa v Brentford</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205050000 +0000" stop="20241205060000 +0000">
-    <title>THE CATCH-UP SHOW EP16</title>
-    <sub-title>All the very best of the week's programming and digital content from another action-packed Premier League match round.</sub-title>
-    <desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
-  </programme>
-  <programme channel="os11" start="20241205060000 +0000" stop="20241205063000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Newcastle United v Liverpool</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205063000 +0000" stop="20241205070000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Manchester City v Nottingham Forest</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205070000 +0000" stop="20241205073000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Southampton v Chelsea</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205073000 +0000" stop="20241205080000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Everton v Wolverhampton Wanderers</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205080000 +0000" stop="20241205083000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Arsenal v Manchester United</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205083000 +0000" stop="20241205090000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Aston Villa v Brentford</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205090000 +0000" stop="20241205093000 +0000">
-    <title>PL STORIES EP27: (Subbed) CHICHARITO</title>
-    <sub-title>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</sub-title>
-    <desc>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</desc>
-  </programme>
-  <programme channel="os11" start="20241205093000 +0000" stop="20241205103000 +0000">
-    <title>THE CATCH-UP SHOW EP16</title>
-    <sub-title>All the very best of the week's programming and digital content from another action-packed Premier League match round.</sub-title>
-    <desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
-  </programme>
-  <programme channel="os11" start="20241205103000 +0000" stop="20241205110000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Newcastle United v Liverpool</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205110000 +0000" stop="20241205113000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Manchester City v Nottingham Forest</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205113000 +0000" stop="20241205120000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Southampton v Chelsea</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205120000 +0000" stop="20241205123000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Everton v Wolverhampton Wanderers</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205123000 +0000" stop="20241205130000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Arsenal v Manchester United</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205130000 +0000" stop="20241205133000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Aston Villa v Brentford</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205133000 +0000" stop="20241205140000 +0000">
-    <title>THE BIG INTERVIEW EP17: NICOLAS JACKSON</title>
-    <sub-title>From a tough start to life in the Premier League, Nicolas Jackson is playing some of the best football of his career. The Chelsea striker tells The Big Interview how he played barefoot in the street as a child in The Gambia before moving to Senegal, the impact Unai Emery had on him at Villareal and loving life at Stamford Bridge.</sub-title>
-    <desc>From a tough start to life in the Premier League, Nicolas Jackson is playing some of the best football of his career. The Chelsea striker tells The Big Interview how he played barefoot in the street as a child in The Gambia before moving to Senegal, the impact Unai Emery had on him at Villareal and loving life at Stamford Bridge.</desc>
-  </programme>
-  <programme channel="os11" start="20241205140000 +0000" stop="20241205143000 +0000">
-    <title>PL STORIES EP27: (Subbed) CHICHARITO</title>
-    <sub-title>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</sub-title>
-    <desc>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</desc>
-  </programme>
-  <programme channel="os11" start="20241205143000 +0000" stop="20241205150000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Newcastle United v Liverpool</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205150000 +0000" stop="20241205153000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Manchester City v Nottingham Forest</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205153000 +0000" stop="20241205160000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Southampton v Chelsea</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205160000 +0000" stop="20241205163000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Everton v Wolverhampton Wanderers</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205163000 +0000" stop="20241205170000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Arsenal v Manchester United</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205170000 +0000" stop="20241205173000 +0000">
-    <title>MATCH HIGHLIGHTS 24/25 MW14 Aston Villa v Brentford</title>
-    <sub-title>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</sub-title>
-    <desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme channel="os11" start="20241205173000 +0000" stop="20241205180000 +0000">
-    <title>PL STORIES EP27: (Subbed) CHICHARITO</title>
-    <sub-title>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</sub-title>
-    <desc>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</desc>
-  </programme>
-  <programme channel="os11" start="20241205180000 +0000" stop="20241205183000 +0000">
-    <title>THE BIG INTERVIEW EP17: NICOLAS JACKSON</title>
-    <sub-title>From a tough start to life in the Premier League, Nicolas Jackson is playing some of the best football of his career. The Chelsea striker tells The Big Interview how he played barefoot in the street as a child in The Gambia before moving to Senegal, the impact Unai Emery had on him at Villareal and loving life at Stamford Bridge.</sub-title>
-    <desc>From a tough start to life in the Premier League, Nicolas Jackson is playing some of the best football of his career. The Chelsea striker tells The Big Interview how he played barefoot in the street as a child in The Gambia before moving to Senegal, the impact Unai Emery had on him at Villareal and loving life at Stamford Bridge.</desc>
-  </programme>
-  <programme channel="os11" start="20241205183000 +0000" stop="20241205230000 +0000">
-    <title>MATCHDAY LIVE Fulham v Brighton &amp; Hove Albion / Bournemouth v Tottenham Hotspur</title>
-    <sub-title>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</sub-title>
-    <desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme channel="os11" start="20241205230000 +0000" stop="20241205233000 +0000">
-    <title>PL STORIES EP27: (Subbed) CHICHARITO</title>
-    <sub-title>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</sub-title>
-    <desc>Coming from a successful footballing family, Javier Hernandez was somewhat destined for football stardom. Chicharito talks us through his fairytale move to Manchester United as well as his return to Mexico and his hometown team, Club Deportivo Guadalajara.</desc>
-  </programme>
   <programme channel="os11" start="20241205233000 +0000" stop="20241206000000 +0000">
     <title>PL STORIES EP26: THE GREATEST GAME EVER PLAYED</title>
     <sub-title>We gather a panel of experts to tackle a nearly impossible question: What truly is the Greatest Premier League Game Ever? Join two ex-footballers, a seasoned commentator, and a top football journalist as they lock horns in a passionate roundtable discussion. The panel revisits iconic moments, dissecting tactics, and legendary performances. Expect banter, bold claims, and maybe even a few surprises, as they strive to settle the debate—or perhaps keep it alive. Whether reliving “Fergie Time” magic, Leicester’s miracle season, or Aguero’s legendary finish, this episode celebrates the unfiltered drama that only Premier League history can offer.</sub-title>
@@ -1122,5 +937,150 @@
     <title>MATCH OFFICIALS MIC'D UP TUES 10 DEC</title>
     <sub-title>Match Officials Mic’d Up returns for a fourth episode of the 2024/25 season, with PGMOL Chief Refereeing Officer Howard Webb joining Michael Owen to discuss key decisions from recent Premier League Matchweeks, using previously un-released audio between the on-field officials and VAR teams.</sub-title>
     <desc>Match Officials Mic’d Up returns for a fourth episode of the 2024/25 season, with PGMOL Chief Refereeing Officer Howard Webb joining Michael Owen to discuss key decisions from recent Premier League Matchweeks, using previously un-released audio between the on-field officials and VAR teams.</desc>
+  </programme>
+  <programme channel="os11" start="20241212000000 +0000" stop="20241212010000 +0000">
+    <title>REVIEW TUE 10 DEC</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+    <desc>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme channel="os11" start="20241212010000 +0000" stop="20241212020000 +0000">
+    <title>THE CATCH-UP SHOW EP17</title>
+    <sub-title>All the very best of the week's programming and digital content from another action-packed Premier League match round.</sub-title>
+    <desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
+  </programme>
+  <programme channel="os11" start="20241212020000 +0000" stop="20241212030000 +0000">
+    <title>1-TO-11 EP09: JOE HART</title>
+    <sub-title>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</sub-title>
+    <desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+  </programme>
+  <programme channel="os11" start="20241212030000 +0000" stop="20241212033000 +0000">
+    <title>PL STORIES EP28: TEENAGE TRAILBLAZERS</title>
+    <sub-title>We explore the remarkable journeys of players who made their mark on the Premier League stage as teenagers. From prodigious talents to record-breakers, we tell the stories of these fearless young stars who defied expectations and changed the game forever.</sub-title>
+    <desc>We explore the remarkable journeys of players who made their mark on the Premier League stage as teenagers. From prodigious talents to record-breakers, we tell the stories of these fearless young stars who defied expectations and changed the game forever.</desc>
+  </programme>
+  <programme channel="os11" start="20241212033000 +0000" stop="20241212053000 +0000">
+    <title>CLASSIC MATCH 12/13 MCI v MUN</title>
+    <sub-title>We delve into the Premier League archive to bring you a Classic Match from the 2012/2013 season.</sub-title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match from the 2012/2013 season.</desc>
+  </programme>
+  <programme channel="os11" start="20241212053000 +0000" stop="20241212060000 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUES 10 DEC</title>
+    <sub-title>Match Officials Mic’d Up returns for a fourth episode of the 2024/25 season, with PGMOL Chief Refereeing Officer Howard Webb joining Michael Owen to discuss key decisions from recent Premier League Matchweeks, using previously un-released audio between the on-field officials and VAR teams.</sub-title>
+    <desc>Match Officials Mic’d Up returns for a fourth episode of the 2024/25 season, with PGMOL Chief Refereeing Officer Howard Webb joining Michael Owen to discuss key decisions from recent Premier League Matchweeks, using previously un-released audio between the on-field officials and VAR teams.</desc>
+  </programme>
+  <programme channel="os11" start="20241212060000 +0000" stop="20241212070000 +0000">
+    <title>THE ART OF... EP03: REFEREEING</title>
+    <sub-title>PGMOL Chief Refereeing Officer Howard Webb and current Premier League official Craig Pawson provide a unique insight into the skills required to referee at the top level.</sub-title>
+    <desc>PGMOL Chief Refereeing Officer Howard Webb and current Premier League official Craig Pawson provide a unique insight into the skills required to referee at the top level.</desc>
+  </programme>
+  <programme channel="os11" start="20241212070000 +0000" stop="20241212080000 +0000">
+    <title>THE CATCH-UP SHOW EP17</title>
+    <sub-title>All the very best of the week's programming and digital content from another action-packed Premier League match round.</sub-title>
+    <desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
+  </programme>
+  <programme channel="os11" start="20241212080000 +0000" stop="20241212083000 +0000">
+    <title>PL STORIES EP28: TEENAGE TRAILBLAZERS</title>
+    <sub-title>We explore the remarkable journeys of players who made their mark on the Premier League stage as teenagers. From prodigious talents to record-breakers, we tell the stories of these fearless young stars who defied expectations and changed the game forever.</sub-title>
+    <desc>We explore the remarkable journeys of players who made their mark on the Premier League stage as teenagers. From prodigious talents to record-breakers, we tell the stories of these fearless young stars who defied expectations and changed the game forever.</desc>
+  </programme>
+  <programme channel="os11" start="20241212083000 +0000" stop="20241212090000 +0000">
+    <title>PL STORIES EP22: (Subbed) ASMIR BEGOVIC</title>
+    <sub-title>After a turbulent childhood, including leaving his country of birth due to war, Asmir Begović’s determination led to him to a Premier League winners medal. The 37 year-old goalkeeper talks us through his journey from Bosnia to Everton with many stops in between.</sub-title>
+    <desc>After a turbulent childhood, including leaving his country of birth due to war, Asmir Begović’s determination led to him to a Premier League winners medal. The 37 year-old goalkeeper talks us through his journey from Bosnia to Everton with many stops in between.</desc>
+  </programme>
+  <programme channel="os11" start="20241212090000 +0000" stop="20241212100000 +0000">
+    <title>1-TO-11 EP09: JOE HART</title>
+    <sub-title>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</sub-title>
+    <desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+  </programme>
+  <programme channel="os11" start="20241212100000 +0000" stop="20241212103000 +0000">
+    <title>CLASSIC MATCH 13/14 MCI v MUN</title>
+    <sub-title>We delve into the Premier League archive to bring you a Classic Match from the 2013/2014 season.</sub-title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match from the 2013/2014 season.</desc>
+  </programme>
+  <programme channel="os11" start="20241212103000 +0000" stop="20241212110000 +0000">
+    <title>PL STORIES EP32: (Subbed) MANCHESTER CITY - THE SEASON THAT STARTED IT ALL</title>
+    <sub-title>In a nail-biting climax to the 2011-2012 Premier League season, Manchester City clinched the title with unparalleled drama. Facing Queens Park Rangers on the final matchday, City secured a 3-2 victory with Sergio Agüero's iconic last-minute goal, securing their first league title in 44 years and etching that game into footballing folklore. They have since become the dominant power in English football and we look at how it all began.</sub-title>
+    <desc>In a nail-biting climax to the 2011-2012 Premier League season, Manchester City clinched the title with unparalleled drama. Facing Queens Park Rangers on the final matchday, City secured a 3-2 victory with Sergio Agüero's iconic last-minute goal, securing their first league title in 44 years and etching that game into footballing folklore. They have since become the dominant power in English football and we look at how it all began.</desc>
+  </programme>
+  <programme channel="os11" start="20241212110000 +0000" stop="20241212113000 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUES 10 DEC</title>
+    <sub-title>Match Officials Mic’d Up returns for a fourth episode of the 2024/25 season, with PGMOL Chief Refereeing Officer Howard Webb joining Michael Owen to discuss key decisions from recent Premier League Matchweeks, using previously un-released audio between the on-field officials and VAR teams.</sub-title>
+    <desc>Match Officials Mic’d Up returns for a fourth episode of the 2024/25 season, with PGMOL Chief Refereeing Officer Howard Webb joining Michael Owen to discuss key decisions from recent Premier League Matchweeks, using previously un-released audio between the on-field officials and VAR teams.</desc>
+  </programme>
+  <programme channel="os11" start="20241212113000 +0000" stop="20241212120000 +0000">
+    <title>PL STORIES EP11: JARRED GILLETT - THROUGH THE EYES OF A REFEREE</title>
+    <sub-title>Jarred Gillett made history earlier this year when he became the first Premier League referee ever to be fitted with a special head-mounted camera during Crystal Palace’s home victory over Manchester United. PL Stories is granted exclusive access to Gillet and his officiating team on matchday, offering fans a unique insight into refereeing at the highest level. Premier League match officials and in particular referees are often the most scrutinised individuals in the game and this show reveals how difficult a task they have.</sub-title>
+    <desc>Jarred Gillett made history earlier this year when he became the first Premier League referee ever to be fitted with a special head-mounted camera during Crystal Palace’s home victory over Manchester United. PL Stories is granted exclusive access to Gillet and his officiating team on matchday, offering fans a unique insight into refereeing at the highest level. Premier League match officials and in particular referees are often the most scrutinised individuals in the game and this show reveals how difficult a task they have.</desc>
+  </programme>
+  <programme channel="os11" start="20241212120000 +0000" stop="20241212130000 +0000">
+    <title>THE CATCH-UP SHOW EP17</title>
+    <sub-title>All the very best of the week's programming and digital content from another action-packed Premier League match round.</sub-title>
+    <desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
+  </programme>
+  <programme channel="os11" start="20241212130000 +0000" stop="20241212133000 +0000">
+    <title>PL STORIES EP28: TEENAGE TRAILBLAZERS</title>
+    <sub-title>We explore the remarkable journeys of players who made their mark on the Premier League stage as teenagers. From prodigious talents to record-breakers, we tell the stories of these fearless young stars who defied expectations and changed the game forever.</sub-title>
+    <desc>We explore the remarkable journeys of players who made their mark on the Premier League stage as teenagers. From prodigious talents to record-breakers, we tell the stories of these fearless young stars who defied expectations and changed the game forever.</desc>
+  </programme>
+  <programme channel="os11" start="20241212133000 +0000" stop="20241212140000 +0000">
+    <title>THE BIG INTERVIEW EP18: DOMINIC SOLANKE</title>
+    <sub-title>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</sub-title>
+    <desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme channel="os11" start="20241212140000 +0000" stop="20241212150000 +0000">
+    <title>PL MASTERCLASS EP01</title>
+    <sub-title>Some of the Premier League's biggest stars take us onto the pitch to discuss the techniques and thought processes that allow them to perform at the highest level. Featuring Rodri, Chris Wood, Enzo Maresca, Cameron Archer with Maxwel Cornet and James Tarkowski.</sub-title>
+    <desc>Some of the Premier League's biggest stars take us onto the pitch to discuss the techniques and thought processes that allow them to perform at the highest level. Featuring Rodri, Chris Wood, Enzo Maresca, Cameron Archer with Maxwel Cornet and James Tarkowski.</desc>
+  </programme>
+  <programme channel="os11" start="20241212150000 +0000" stop="20241212160000 +0000">
+    <title>REVIEW OF THE SEASON 2011/2012 (MNC)</title>
+    <sub-title>A review of all the best goals, action and drama from Premier League seasons past.</sub-title>
+    <desc>A review of all the best goals, action and drama from Premier League seasons past.</desc>
+  </programme>
+  <programme channel="os11" start="20241212160000 +0000" stop="20241212170000 +0000">
+    <title>1-TO-11 EP09: JOE HART</title>
+    <sub-title>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</sub-title>
+    <desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+  </programme>
+  <programme channel="os11" start="20241212170000 +0000" stop="20241212180000 +0000">
+    <title>THE CATCH-UP SHOW EP17</title>
+    <sub-title>All the very best of the week's programming and digital content from another action-packed Premier League match round.</sub-title>
+    <desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
+  </programme>
+  <programme channel="os11" start="20241212180000 +0000" stop="20241212190000 +0000">
+    <title>REVIEW TUE 10 DEC</title>
+    <sub-title>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</sub-title>
+    <desc>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+  </programme>
+  <programme channel="os11" start="20241212190000 +0000" stop="20241212193000 +0000">
+    <title>THE BIG INTERVIEW EP18: DOMINIC SOLANKE</title>
+    <sub-title>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</sub-title>
+    <desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme channel="os11" start="20241212193000 +0000" stop="20241212200000 +0000">
+    <title>PL STORIES EP28: TEENAGE TRAILBLAZERS</title>
+    <sub-title>We explore the remarkable journeys of players who made their mark on the Premier League stage as teenagers. From prodigious talents to record-breakers, we tell the stories of these fearless young stars who defied expectations and changed the game forever.</sub-title>
+    <desc>We explore the remarkable journeys of players who made their mark on the Premier League stage as teenagers. From prodigious talents to record-breakers, we tell the stories of these fearless young stars who defied expectations and changed the game forever.</desc>
+  </programme>
+  <programme channel="os11" start="20241212200000 +0000" stop="20241212203000 +0000">
+    <title>MATCH OFFICIALS MIC'D UP TUES 10 DEC</title>
+    <sub-title>Match Officials Mic’d Up returns for a fourth episode of the 2024/25 season, with PGMOL Chief Refereeing Officer Howard Webb joining Michael Owen to discuss key decisions from recent Premier League Matchweeks, using previously un-released audio between the on-field officials and VAR teams.</sub-title>
+    <desc>Match Officials Mic’d Up returns for a fourth episode of the 2024/25 season, with PGMOL Chief Refereeing Officer Howard Webb joining Michael Owen to discuss key decisions from recent Premier League Matchweeks, using previously un-released audio between the on-field officials and VAR teams.</desc>
+  </programme>
+  <programme channel="os11" start="20241212203000 +0000" stop="20241212210000 +0000">
+    <title>PL STORIES EP11: JARRED GILLETT - THROUGH THE EYES OF A REFEREE</title>
+    <sub-title>Jarred Gillett made history earlier this year when he became the first Premier League referee ever to be fitted with a special head-mounted camera during Crystal Palace’s home victory over Manchester United. PL Stories is granted exclusive access to Gillet and his officiating team on matchday, offering fans a unique insight into refereeing at the highest level. Premier League match officials and in particular referees are often the most scrutinised individuals in the game and this show reveals how difficult a task they have.</sub-title>
+    <desc>Jarred Gillett made history earlier this year when he became the first Premier League referee ever to be fitted with a special head-mounted camera during Crystal Palace’s home victory over Manchester United. PL Stories is granted exclusive access to Gillet and his officiating team on matchday, offering fans a unique insight into refereeing at the highest level. Premier League match officials and in particular referees are often the most scrutinised individuals in the game and this show reveals how difficult a task they have.</desc>
+  </programme>
+  <programme channel="os11" start="20241212210000 +0000" stop="20241212220000 +0000">
+    <title>THE CATCH-UP SHOW EP17</title>
+    <sub-title>All the very best of the week's programming and digital content from another action-packed Premier League match round.</sub-title>
+    <desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
+  </programme>
+  <programme channel="os11" start="20241212220000 +0000" stop="20241213000000 +0000">
+    <title>CLASSIC MATCH 12/13 MCI v MUN</title>
+    <sub-title>We delve into the Premier League archive to bring you a Classic Match from the 2012/2013 season.</sub-title>
+    <desc>We delve into the Premier League archive to bring you a Classic Match from the 2012/2013 season.</desc>
   </programme>
 </tv>
